@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Deduction, reasoning, problem solving</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35294</md:content-id>
+  <md:title>Deduction, reasoning, problem solving</md:title>
+  <md:abstract>Early AI researchers developed algorithms that imitated the step-by-step reasoning that humans were often assumed to use when they solve puzzles, play board games or make logical deductions. By the late 1980s and '90s, AI research had also developed highly successful methods for dealing with uncertain or incomplete information, employing concepts from probability and economics.</md:abstract>
+  <md:uuid>d34d5580-cc5a-46a7-ad29-2945c98f3df8</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-141">For difficult problems, most of these algorithms can require enormous computational resources — most experience a "combinatorial explosion": the amount of memory or computer time required becomes astronomical when the problem goes beyond a certain size. The search for more efficient problem solving algorithms is a high priority for AI research.[41]</para>
+
+
+<media id="greyhound" alt="A greyhound relaxing on a bed.">
+  <image mime-type="image/jpeg" src="../../media/200px-Honda_ASIMO_Walking_Stairs.jpg"/>
+</media><para id="eip-275">Human beings solve most of their problems using fast, intuitive judgments rather than the conscious, step-by-step deduction that early AI research was able to model.[42] AI has made some progress at imitating this kind of "sub-symbolic" problem solving: embodied agent approaches emphasize the importance of sensorimotor skills to higher reasoning; neural net research attempts to simulate the structures inside human and animal brains that give rise to this skill.</para>
+        
+</content>
+
+</document>
